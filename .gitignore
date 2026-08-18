@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Compilación
+bin/
+obj/
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+
+# JetBrains Rider
+.idea/
+
+# NuGet
+packages/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
